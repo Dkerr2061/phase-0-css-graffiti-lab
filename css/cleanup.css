@@ -1,1 +1,11 @@
-/* write your override styles here */
+#wall .tag-1 {
+  background: url(../images/tag-1.png) no-repeat;
+  z-index: 7;
+  display: block;
+}
+
+#wall .tag-1 {
+  background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1408089064%2Fwomans-face-colorful-graffiti-art&psig=AOvVaw34w5ukcJlFHPJef3E0JFDV&ust=1705015385596000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODA7Lf704MDFQAAAAAdAAAAABAD) no-repeat;
+  z-index: 7;
+  display: none;
+}
